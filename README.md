@@ -118,8 +118,6 @@ The official employee app of **The Ibn Sina Trust**, used across hospitals, diag
 | 🔄 **Long-term outsourcing** | A dedicated team that knows your product |
 | 🌍 **Remote collaboration** | Working with teams worldwide |
 
-> _Have a project in mind? [Email us](mailto:info.webnstech@gmail.com) — let's build something impactful together._
-
 ---
 
 ## 📊 GitHub Activity
@@ -131,12 +129,42 @@ The official employee app of **The Ibn Sina Trust**, used across hospitals, diag
 
 ---
 
-## 📫 Contact
+## 📫 Get in Touch
 
 <p align="center">
-  📧 <a href="mailto:info.webnstech@gmail.com"><b>info.webnstech@gmail.com</b></a><br/>
-  🌐 <a href="https://www.webnstech.net/"><b>www.webnstech.net</b></a><br/>
-  💼 <a href="https://github.com/webnstech"><b>github.com/webnstech</b></a>
+  <b>Have a project in mind? Let's talk.</b><br/>
+  <sub>Tell us what you want to build — we'll reply with ideas, a plan and an estimate.</sub>
+</p>
+
+<p align="center">
+  <a href="mailto:info.webnstech@gmail.com?subject=Project%20inquiry">
+    <img src="https://img.shields.io/badge/Email%20Us-info.webnstech%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email us" />
+  </a>
+  <br/>
+  <a href="https://www.webnstech.net/">
+    <img src="https://img.shields.io/badge/Visit-webnstech.net-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/webnstech">
+    <img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<div align="center">
+
+| | Contact | Best for |
+|:---:|:---|:---|
+| 📧 | [**info.webnstech@gmail.com**](mailto:info.webnstech@gmail.com?subject=Project%20inquiry) | Project inquiries, quotes, partnerships |
+| 🌐 | [**www.webnstech.net**](https://www.webnstech.net/) | Our services, portfolio and company info |
+| 💼 | [**github.com/webnstech**](https://github.com/webnstech) | Open source work and code samples |
+| 📍 | **Dhaka, Bangladesh** | Working with clients worldwide, remotely |
+| ⏱️ | **Within 1 business day** | Typical reply time |
+
+</div>
+
+<p align="center">
+  <a href="mailto:info.webnstech@gmail.com?subject=Project%20inquiry">
+    <img src="https://img.shields.io/badge/🚀%20Start%20a%20Project-Send%20us%20an%20email-22C55E?style=for-the-badge" alt="Start a project" />
+  </a>
 </p>
 
 ---
@@ -146,5 +174,6 @@ The official employee app of **The Ibn Sina Trust**, used across hospitals, diag
 </p>
 
 <p align="center">
-  ⭐ <b>If you like what we build, star our repositories!</b>
+  ⭐ <b>If you like what we build, star our repositories!</b><br/>
+  <sub>© WEBNS Technology Ltd. · Built with care in Bangladesh</sub>
 </p>
