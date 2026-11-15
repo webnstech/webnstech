@@ -1,77 +1,90 @@
 <!-- ========================= -->
-<!--     WEBNSTECH PROFILE     -->
+<!--     WEBNS TECHNOLOGY      -->
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=WebnsTech&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=WEBNS%20Technology&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engineering%20digital%20products%20that%20last&descAlignY=55&descSize=16" />
 </p>
 
-<h3 align="center">
-  🌍 Engineering Digital Products for the Future
-</h3>
-
 <p align="center">
-  <a href="https://github.com/webnstech">
-    <img src="https://komarev.com/ghpvc/?username=webnstech&label=Profile%20Views&color=0ea5e9&style=flat" />
-  </a>
-  <img src="https://img.shields.io/badge/Company-WebnsTech-success?style=flat" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat" />
+  <a href="https://www.webnstech.net/"><img src="https://img.shields.io/badge/Website-webnstech.net-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:info.webnstech@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20us-22c55e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=webnstech&label=Profile%20views&color=0ea5e9&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🏢 Who We Are
 
-**WebnsTech** is a full-stack software development company delivering **high-performance digital solutions** for startups, enterprises, and growing businesses.
+**WEBNS Technology Ltd.** is a software company in Bangladesh building **web, mobile and enterprise systems** for healthcare, businesses and growing organisations.
 
-We focus on:
-- Clean architecture  
-- Scalable systems  
-- Secure applications  
-- Long-term maintainability  
+We care about the things that matter after launch:
 
-> _We don’t just write code — we build products._
+| | |
+|---|---|
+| 🧱 **Clean architecture** | Code that new developers can read and extend |
+| 📈 **Scalable systems** | From a single unit to dozens of branches |
+| 🔐 **Security first** | Encrypted storage, certificate pinning, device checks |
+| 🛠️ **Long-term support** | We maintain what we build |
+
+> _We don't just write code — we build products people use every day._
 
 ---
 
-## 🚀 Our Core Services
+## ⭐ Featured Product
+
+### 📱 Ibn Sina HRM
+The official employee app of **The Ibn Sina Trust**, used across hospitals, diagnostic centers and offices.
+
+- 📍 GPS attendance with geo-fenced work areas and live team tracking
+- 🗓️ Leave, loan and transfer applications with multi-level approvals
+- 💵 Payslips, attendance reports and HR dashboards
+- 🔐 Hardened for production: obfuscation, certificate pinning, root and tamper detection, encrypted session storage
+
+`Flutter` · `Dart` · `Kotlin` · `Oracle PL/SQL` · `REST APIs` · `Google Maps`
+
+---
+
+## 🚀 What We Do
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Web Development
-- Enterprise Web Apps  
-- Admin Dashboards  
-- SaaS Platforms  
-- API-driven systems  
+### 📱 Mobile Apps
+- Flutter (Android & iOS)
+- Native Android (Kotlin, Jetpack Compose)
+- Offline-first apps with background sync
+- Maps, GPS and location tracking
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📱 Mobile App Development
-- Android (Kotlin / Java)  
-- Modern UI (Jetpack Compose)  
-- Firebase & API integration  
+### 🌐 Web Platforms
+- Enterprise web apps and admin dashboards
+- SaaS platforms
+- Reporting and analytics portals
+- API-driven front ends
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ Backend & APIs
-- Node.js / Java / Kotlin  
-- Oracle PL/SQL  
-- Secure REST APIs  
+### ⚙️ Backend & Databases
+- Oracle PL/SQL, MySQL, PostgreSQL
+- Secure REST APIs (Java, Kotlin, Node.js)
+- HR, payroll and attendance engines
+- Third-party and payment integrations
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ☁️ Cloud & DevOps
-- Docker & CI/CD  
-- Linux Servers  
-- Performance Optimization  
+- Linux servers and Docker
+- CI/CD pipelines
+- Play Store releases and compliance
+- Performance and security audits
 
 </td>
 </tr>
@@ -82,64 +95,49 @@ We focus on:
 ## 🧠 Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,kotlin,java,nodejs,oracle,mysql,postgres,firebase,docker,linux,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,react,vue,nodejs,js,html,css,mysql,postgres,firebase,docker,linux,git,github&perline=9" />
 </p>
 
 ---
 
-## 🌱 Currently Innovating With
+## 🌱 Currently Exploring
 
-- Jetpack Compose & Modern Android UI  
-- Kotlin Multiplatform (KMP)  
-- Microservices Architecture  
-- AI-assisted Business Automation  
-- Secure Enterprise Databases  
-
----
-
-## 🤝 Collaboration & Partnerships
-
-We are open to:
-- 🚀 Startup MVP Development  
-- 🏢 Enterprise Solutions  
-- 🤝 Long-term Outsourcing  
-- 🌍 Global Remote Collaboration  
-- 🧩 Open Source Contributions  
-
-> _Let’s build something impactful together._
+- Kotlin Multiplatform (KMP) and Compose Multiplatform
+- Microservices for multi-branch organisations
+- AI-assisted business automation
+- Secure, high-availability enterprise databases
 
 ---
 
-## 📊 GitHub Insights
+## 🤝 Work With Us
+
+| We help with | |
+|---|---|
+| 🚀 **Startup MVPs** | Idea to Play Store, fast |
+| 🏢 **Enterprise systems** | HR, attendance, payroll, ERP |
+| 🔄 **Long-term outsourcing** | A dedicated team that knows your product |
+| 🌍 **Remote collaboration** | Working with teams worldwide |
+
+> _Have a project in mind? [Email us](mailto:info.webnstech@gmail.com) — let's build something impactful together._
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webnstech&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=webnstech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=webnstech&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 📫 Contact
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webnstech&theme=tokyonight&hide_border=true" />
+  📧 <a href="mailto:info.webnstech@gmail.com"><b>info.webnstech@gmail.com</b></a><br/>
+  🌐 <a href="https://www.webnstech.net/"><b>www.webnstech.net</b></a><br/>
+  💼 <a href="https://github.com/webnstech"><b>github.com/webnstech</b></a>
 </p>
-
----
-
-## 📫 Contact WebnsTech
-
-<p align="center">
-  📧 <b>Email:</b> contact@webnstech.com <br/>
-  🌐 <b>Website:</b> https://webnstech.com <br/>
-  💼 <b>GitHub:</b> https://github.com/webnstech
-</p>
-
----
-
-## 😄 Pronouns
-**We / Our Team**
-
----
-
-## ⚡ Fun Fact
-
-> Our code goes through **logic, performance, security, and scalability checks** before it reaches production ⚙️✨
 
 ---
 
@@ -148,5 +146,5 @@ We are open to:
 </p>
 
 <p align="center">
-  ⭐ <b>Star our repositories if you like what we build!</b>
+  ⭐ <b>If you like what we build, star our repositories!</b>
 </p>
